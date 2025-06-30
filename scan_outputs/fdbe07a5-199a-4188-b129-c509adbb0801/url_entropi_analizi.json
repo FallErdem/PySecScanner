@@ -1,0 +1,6231 @@
+[
+    {
+        "url": "https://gazi.edu.tr/",
+        "path_entropy": 0.0,
+        "path_segments_entropy": [],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/candidate-student",
+        "path_entropy": 3.5555331514269954,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "candidate-student",
+                "entropy": 3.175123135113461
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/SetCulture?language=en-US",
+        "path_entropy": 3.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "SetCulture",
+                "entropy": 2.721928094887362
+            }
+        ],
+        "query_string_entropy": 3.2359263506290334,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "en-US",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr",
+        "path_entropy": 0.0,
+        "path_segments_entropy": [],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/217061",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "217061",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291470/politikalarimiz",
+        "path_entropy": 4.124256907946324,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291470",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "politikalarimiz",
+                "entropy": 3.1068905956085184
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/237161/kurumsal-kimlik-kilavuzu",
+        "path_entropy": 4.165894208390024,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "237161",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "kurumsal-kimlik-kilavuzu",
+                "entropy": 3.2720552088742005
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/236920",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "236920",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/288801/koordinatorlukler",
+        "path_entropy": 4.128724445269141,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288801",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "koordinatorlukler",
+                "entropy": 3.292770193936991
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/221321/organizasyon-semalari",
+        "path_entropy": 4.109138039864114,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "221321",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "organizasyon-semalari",
+                "entropy": 3.5351745656359026
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/162185",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "162185",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/249462/rektor",
+        "path_entropy": 3.8035088547976788,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "249462",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "rektor",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291469/rektor-yardimcilari",
+        "path_entropy": 4.249729716863357,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291469",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rektor-yardimcilari",
+                "entropy": 3.4713544870139286
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291510/rektor-danismanlari",
+        "path_entropy": 4.283381405994075,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291510",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rektor-danismanlari",
+                "entropy": 3.536886723742167
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291527/senato",
+        "path_entropy": 3.8868421881310122,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291527",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "senato",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291528/yonetim-kurulu",
+        "path_entropy": 4.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291528",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "yonetim-kurulu",
+                "entropy": 3.4677201004744997
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/257052/akademik-yukseltilme-ve-atanma-kriterleri",
+        "path_entropy": 4.185372447880186,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "257052",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "akademik-yukseltilme-ve-atanma-kriterleri",
+                "entropy": 3.6468455293152147
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/256514",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "256514",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/280322/stratejik-plan-raporlar",
+        "path_entropy": 4.141105590449127,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280322",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "stratejik-plan-raporlar",
+                "entropy": 3.4800836951874485
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/295794/2024-2025-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.194952445739504,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "295794",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "2024-2025-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.8164027166443866
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/295740/2023-2024-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.2144073285182,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "295740",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "2023-2024-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.8164027166443866
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/288692/2022-2023-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.1317986335525285,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288692",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "2022-2023-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.7379322715479337
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/286766/2021-2022-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.153467726488667,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "286766",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "2021-2022-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.737932271547934
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/288187/uygulama-ve-arastirma-merkezleri",
+        "path_entropy": 4.163074189428569,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288187",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "uygulama-ve-arastirma-merkezleri",
+                "entropy": 3.6525182662886326
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/215/akademik-ve-bilimsel-dergiler",
+        "path_entropy": 3.9702091769252417,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "215",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "akademik-ve-bilimsel-dergiler",
+                "entropy": 3.5090356337908912
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/153/iletisim-sayfasi",
+        "path_entropy": 3.861476859389222,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "153",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "iletisim-sayfasi",
+                "entropy": 3.077819531114783
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/169251",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "169251",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/cimer",
+        "path_entropy": 2.584962500721156,
+        "path_segments_entropy": [
+            {
+                "segment": "cimer",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/313665?type=1&title=2025-yili-sosyal-transkript-basvurulari-basladi",
+        "path_entropy": 3.783465189601646,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "313665",
+                "entropy": 1.9182958340544893
+            }
+        ],
+        "query_string_entropy": 4.203340605465775,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2025-yili-sosyal-transkript-basvurulari-basladi",
+                    "entropy": 3.9303612681108846
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/300361/tubitak-2024-1-2209-a-ve-b-universite-ogrencileri-arastirma-projeleri-destekleme-programi-sonuclari-aciklandi",
+        "path_entropy": 4.450182004695681,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300361",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "tubitak-2024-1-2209-a-ve-b-universite-ogrencileri-arastirma-projeleri-destekleme-programi-sonuclari-aciklandi",
+                "entropy": 4.223249449197029
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/299672/tubitak-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-programi-kapsaminda-2024-yili-2-doneminde-universitemizden-5-proje-desteklenmeye-hak-kazandi",
+        "path_entropy": 4.458296049758918,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299672",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "tubitak-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-programi-kapsaminda-2024-yili-2-doneminde-universitemizden-5-proje-desteklenmeye-hak-kazandi",
+                "entropy": 4.262774497061693
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/295794/2024-2025-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.194952445739504,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "295794",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "2024-2025-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.8164027166443866
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291957",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291957",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/292239",
+        "path_entropy": 3.2927701939369904,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "292239",
+                "entropy": 1.4591479170272448
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/280311",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280311",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316816?type=1&title=elestirel-yonetim-perspektifinden-ekolojik-kriz-ve-surdurulebilirlik",
+        "path_entropy": 3.783465189601646,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316816",
+                "entropy": 1.9182958340544893
+            }
+        ],
+        "query_string_entropy": 4.070668294117148,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "elestirel-yonetim-perspektifinden-ekolojik-kriz-ve-surdurulebilirlik",
+                    "entropy": 3.915962709484318
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316786?type=1&title=20251-donem-tus-yerlestirme-sonucuna-gore-universitemize-yerlestirilen-adaylarin-dikkatine",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316786",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.2452565688408095,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "20251-donem-tus-yerlestirme-sonucuna-gore-universitemize-yerlestirilen-adaylarin-dikkatine",
+                    "entropy": 4.122634869936493
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316767?type=1&title=sosyal-transkript-2025-bahar-donemi-basvurulari-basliyor",
+        "path_entropy": 3.783465189601646,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316767",
+                "entropy": 1.9182958340544896
+            }
+        ],
+        "query_string_entropy": 4.332879443806844,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "sosyal-transkript-2025-bahar-donemi-basvurulari-basliyor",
+                    "entropy": 4.1190453248436
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316569?type=1&title=2025-2026-akademik-yili-guz-yariyili-lisansustu-ogrenci-basvurulari",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316569",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.397573883611433,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2025-2026-akademik-yili-guz-yariyili-lisansustu-ogrenci-basvurulari",
+                    "entropy": 4.1794678771158615
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316565?type=1&title=endnote-2025-online-egitimi",
+        "path_entropy": 3.783465189601646,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316565",
+                "entropy": 1.9182958340544896
+            }
+        ],
+        "query_string_entropy": 3.8348295085032604,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "endnote-2025-online-egitimi",
+                    "entropy": 3.4676694465277853
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316523?type=1&title=gazi-universitesinde-ingilizce-kurslari-basliyor",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316523",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.156330272685386,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "gazi-universitesinde-ingilizce-kurslari-basliyor",
+                    "entropy": 3.901754427398839
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/316498?type=1&title=ebsco-ve-yapay-zeka-ile-bilimsel-arastirma-ve-literatur-taramanin-donusumu",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "316498",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.132599682369015,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "ebsco-ve-yapay-zeka-ile-bilimsel-arastirma-ve-literatur-taramanin-donusumu",
+                    "entropy": 3.966691888154927
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list/1?type=1",
+        "path_entropy": 3.7834651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            },
+            {
+                "segment": "1",
+                "entropy": 0.0
+            }
+        ],
+        "query_string_entropy": 2.584962500721156,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list?id=1&type=2",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.277613436819116,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301185/ekvador-ankara-buyukelcisi-pedro-vintimilla-vega-rektorumuz-prof-dr-ugur-unal-i-ziyaret-etti",
+        "path_entropy": 4.438544224381204,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301185",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "ekvador-ankara-buyukelcisi-pedro-vintimilla-vega-rektorumuz-prof-dr-ugur-unal-i-ziyaret-etti",
+                "entropy": 4.090819420855397
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301174/rektorumuz-prof-dr-ugur-unal-gazi-hastanesi-idari-personeli-ile-bir-araya-geldi",
+        "path_entropy": 4.373598378109369,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301174",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rektorumuz-prof-dr-ugur-unal-gazi-hastanesi-idari-personeli-ile-bir-araya-geldi",
+                "entropy": 3.9690626720857627
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301166/universitemiz-spor-bilimleri-fakultesi-1-mezunlar-bulusma-gunu-gerceklestirildi",
+        "path_entropy": 4.353931293962028,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301166",
+                "entropy": 1.9182958340544896
+            },
+            {
+                "segment": "universitemiz-spor-bilimleri-fakultesi-1-mezunlar-bulusma-gunu-gerceklestirildi",
+                "entropy": 4.051801914722238
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301163/gazi-universitesi-nafsa-2025-te-study-in-turkiye-pavilyonunda-yerini-aldi",
+        "path_entropy": 4.354387215496009,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301163",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "gazi-universitesi-nafsa-2025-te-study-in-turkiye-pavilyonunda-yerini-aldi",
+                "entropy": 4.044926923466799
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301173/-etkili-iletisim-diksiyon-beden-dili-protokol-kurallari-adli-hizmet-ici-egitim-programi-duzenlendi",
+        "path_entropy": 4.282646129227799,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301173",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "-etkili-iletisim-diksiyon-beden-dili-protokol-kurallari-adli-hizmet-ici-egitim-programi-duzenlendi",
+                "entropy": 3.9259030809577267
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301117/teknik-bilimler-meslek-yuksekokulumuz-mezunlarini-ugurladi",
+        "path_entropy": 4.271653541096382,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301117",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "teknik-bilimler-meslek-yuksekokulumuz-mezunlarini-ugurladi",
+                "entropy": 3.8440154787400775
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301116/universitemizde-azerbaycan-turkcesi-egitim-ocagi-acildi",
+        "path_entropy": 4.35129032040653,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301116",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "universitemizde-azerbaycan-turkcesi-egitim-ocagi-acildi",
+                "entropy": 3.985575059515417
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news-list/",
+        "path_entropy": 3.202819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290268/temel-ilk-yardim-egitimi",
+        "path_entropy": 4.047562138070836,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290268",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "temel-ilk-yardim-egitimi",
+                "entropy": 3.340199876515856
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/289612/erasmus-mesleki-mukemmeliyet-merkezleri-cove-cagrisi-acildi",
+        "path_entropy": 4.23226354766812,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "289612",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "erasmus-mesleki-mukemmeliyet-merkezleri-cove-cagrisi-acildi",
+                "entropy": 3.7783213897275836
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290270/gozden-kacan-tehlike-pisirme-dumari-aeroseolleri",
+        "path_entropy": 4.3555912959185505,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290270",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "gozden-kacan-tehlike-pisirme-dumari-aeroseolleri",
+                "entropy": 3.952034575562744
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290117/cocuklarda-yabanci-cisim-yutulmasina-multidisipliner-yaklasim",
+        "path_entropy": 4.372573883611434,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290117",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "cocuklarda-yabanci-cisim-yutulmasina-multidisipliner-yaklasim",
+                "entropy": 3.877321256150077
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290013/gazi-universitesi-mimarlik-fakultesi-3-kat-ogrenci-fikir-projesi-yarismasi",
+        "path_entropy": 4.338876214965468,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290013",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazi-universitesi-mimarlik-fakultesi-3-kat-ogrenci-fikir-projesi-yarismasi",
+                "entropy": 3.9894022596754413
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290290/hijyen",
+        "path_entropy": 3.5238561897747243,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290290",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "hijyen",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290280/hemsirelik-fakultesi-mezuniyet-toreni",
+        "path_entropy": 4.2439821538141285,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290280",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "hemsirelik-fakultesi-mezuniyet-toreni",
+                "entropy": 3.841096866085959
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290318/fen-fakultesi-mezuniyet-toreni",
+        "path_entropy": 4.252365201213913,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290318",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "fen-fakultesi-mezuniyet-toreni",
+                "entropy": 3.7525842461721624
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event-list?id=1&type=1",
+        "path_entropy": 3.202819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event-list",
+                "entropy": 2.9219280948873623
+            }
+        ],
+        "query_string_entropy": 3.095795255000934,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/243044?title=kurum-disi-etkinlikler",
+        "path_entropy": 3.41041725276052,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "243044",
+                "entropy": 1.7924812503605778
+            }
+        ],
+        "query_string_entropy": 3.499169547661508,
+        "query_params_entropy": {
+            "title": [
+                {
+                    "value": "kurum-disi-etkinlikler",
+                    "entropy": 3.4251185503571393
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/300165/gazi-universitesi-2025-qs-alan-siralamasinda-11-alanda-turkiyenin-zirvesinde",
+        "path_entropy": 4.268633956076695,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300165",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazi-universitesi-2025-qs-alan-siralamasinda-11-alanda-turkiyenin-zirvesinde",
+                "entropy": 3.9946569628090858
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/300144/universitemizin-urap-siralamalarinda-yukselisi-devam-ediyor",
+        "path_entropy": 4.252168244697398,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300144",
+                "entropy": 1.9182958340544896
+            },
+            {
+                "segment": "universitemizin-urap-siralamalarinda-yukselisi-devam-ediyor",
+                "entropy": 3.869352059505708
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/299481/ui-greenmetric-dunya-universite-siralamalari-2024-surdurulebilirlikte-oncu-universiteler-aciklandi",
+        "path_entropy": 4.291991609561923,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299481",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "ui-greenmetric-dunya-universite-siralamalari-2024-surdurulebilirlikte-oncu-universiteler-aciklandi",
+                "entropy": 4.008626964890487
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/298480/universitemiz-arastirma-universiteleri-siralamasinda-15-siraya-yukseldi",
+        "path_entropy": 4.200625880503677,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "298480",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "universitemiz-arastirma-universiteleri-siralamasinda-15-siraya-yukseldi",
+                "entropy": 3.8021410737825874
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/280326/arastirma-olanaklari",
+        "path_entropy": 4.112104896108581,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280326",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "arastirma-olanaklari",
+                "entropy": 3.108694969562842
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/280311/gazinet",
+        "path_entropy": 3.813660689688185,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280311",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazinet",
+                "entropy": 2.807354922057604
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/bize-ulasin",
+        "path_entropy": 3.418295834054489,
+        "path_segments_entropy": [
+            {
+                "segment": "bize-ulasin",
+                "entropy": 3.2776134368191165
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/169251/yerleskeler",
+        "path_entropy": 3.840402546702506,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "169251",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "yerleskeler",
+                "entropy": 2.3685225277282065
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/cimer/?language=tr_TR",
+        "path_entropy": 2.5216406363433186,
+        "path_segments_entropy": [
+            {
+                "segment": "cimer",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 3.521640636343319,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "tr_TR",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/our-websites",
+        "path_entropy": 3.392747410448785,
+        "path_segments_entropy": [
+            {
+                "segment": "our-websites",
+                "entropy": 3.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/237161",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "237161",
+                "entropy": 2.251629167387823
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/faculties-and-vocational-schools",
+        "path_entropy": 3.9380738947378657,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "faculties-and-vocational-schools",
+                "entropy": 3.7181390622295662
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/programs",
+        "path_entropy": 3.521640636343319,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "programs",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/spor",
+        "path_entropy": 3.121928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "spor",
+                "entropy": 2.0
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/social-services",
+        "path_entropy": 3.427333493898264,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "social-services",
+                "entropy": 3.189898095464287
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/green-campus",
+        "path_entropy": 3.794653473544342,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "green-campus",
+                "entropy": 3.418295834054489
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/library",
+        "path_entropy": 3.238901256602631,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "library",
+                "entropy": 2.521640636343318
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/student-societies",
+        "path_entropy": 3.468576629687865,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "student-societies",
+                "entropy": 3.1307179879273748
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/research",
+        "path_entropy": 3.182005814760214,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "research",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/social-opportunities",
+        "path_entropy": 3.8252517372886503,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "social-opportunities",
+                "entropy": 3.546439344671015
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/SetCulture?language=tr-TR",
+        "path_entropy": 3.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "SetCulture",
+                "entropy": 2.721928094887362
+            }
+        ],
+        "query_string_entropy": 3.521640636343319,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "tr-TR",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/193004",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "193004",
+                "entropy": 2.251629167387823
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/294625/our-policies",
+        "path_entropy": 4.123231428797621,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "294625",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "our-policies",
+                "entropy": 3.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/175633",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "175633",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/280316/rector",
+        "path_entropy": 3.9701755214643457,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280316",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "rector",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291531/vice-rectors",
+        "path_entropy": 4.040223928941852,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291531",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "vice-rectors",
+                "entropy": 3.084962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291529/advisors-to-the-rector",
+        "path_entropy": 4.146439344671014,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291529",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "advisors-to-the-rector",
+                "entropy": 3.4130884364257574
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291869/gazi-university-senate",
+        "path_entropy": 4.162814895472355,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291869",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazi-university-senate",
+                "entropy": 3.5726236638951634
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/291870/gazi-university-administrative-board",
+        "path_entropy": 4.379319447765434,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291870",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "gazi-university-administrative-board",
+                "entropy": 3.8428572928084965
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/295956/2024-2025-academic-year-calendar",
+        "path_entropy": 4.159079570624174,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "295956",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "2024-2025-academic-year-calendar",
+                "entropy": 3.652518266288633
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/293808/2023-2024-academic-year-academic-calendar",
+        "path_entropy": 4.109704762342726,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "293808",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "2023-2024-academic-year-academic-calendar",
+                "entropy": 3.610584860582954
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/290505/2022-2023-academic-year-academic-calendar",
+        "path_entropy": 4.022497185601596,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "290505",
+                "entropy": 1.9182958340544896
+            },
+            {
+                "segment": "2022-2023-academic-year-academic-calendar",
+                "entropy": 3.5225448490113247
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/286300",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "286300",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/88838",
+        "path_entropy": 3.077819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "88838",
+                "entropy": 0.7219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/280315/contact-us",
+        "path_entropy": 4.235926350629033,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280315",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "contact-us",
+                "entropy": 2.9219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/310485?type=1&title=rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "310485",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.10647195264743,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university",
+                    "entropy": 3.9279006645180305
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/310486?type=1&title=prof-dr-ugur-unal-appointed-as-rector-of-gazi-university",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "310486",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.173407884710462,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "prof-dr-ugur-unal-appointed-as-rector-of-gazi-university",
+                    "entropy": 3.9670218858797184
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/309102?type=1&title=2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "309102",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.234155576633236,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress",
+                    "entropy": 4.102100338269994
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/302917?type=1&title=2023-2024-international-student-admissions-list-of-placed-students",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "302917",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.175236723893291,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2023-2024-international-student-admissions-list-of-placed-students",
+                    "entropy": 3.9848159467539515
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/302067?type=1&title=international-student-applications-to-associate-and-undergraduate-degree-programmes",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "302067",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.011093803307071,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "international-student-applications-to-associate-and-undergraduate-degree-programmes",
+                    "entropy": 3.8254841322526802
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/300672?type=1&title=new-promotional-film-of-our-university",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "300672",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.090009177182522,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "new-promotional-film-of-our-university",
+                    "entropy": 3.860320777833043
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/298936?type=1&title=tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "298936",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.034341467794693,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures",
+                    "entropy": 3.820384317762371
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301143/graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025",
+        "path_entropy": 4.3674464429954565,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301143",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025",
+                "entropy": 4.042782110139293
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301131/-azerbaijani-turkish-language-center-opened-at-our-university",
+        "path_entropy": 4.352159665838807,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301131",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "-azerbaijani-turkish-language-center-opened-at-our-university",
+                "entropy": 4.029258962447467
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/301130/champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency",
+        "path_entropy": 4.39019092699425,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301130",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency",
+                "entropy": 4.1435247330076415
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/300085/gazi-university-participates-in-the-state-incentives-promotion-days",
+        "path_entropy": 4.2255920073990945,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300085",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "gazi-university-participates-in-the-state-incentives-promotion-days",
+                "entropy": 3.8700789822919717
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/300086/the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten",
+        "path_entropy": 4.31215241045343,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300086",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten",
+                "entropy": 4.039750249870295
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/299913/record-number-of-applications-received-for-the-g3-business-ideas-competition",
+        "path_entropy": 4.357446195081197,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299913",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "record-number-of-applications-received-for-the-g3-business-ideas-competition",
+                "entropy": 4.05853529139163
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/299887/the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held",
+        "path_entropy": 4.308232820719445,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299887",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held",
+                "entropy": 3.9868745995002404
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/290182/let-nature-speak-with-gazi-cfl",
+        "path_entropy": 4.336563099562337,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290182",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "let-nature-speak-with-gazi-cfl",
+                "entropy": 3.9110804962442782
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/289656/5-th-international-conference-on-light-and-light-based-technologies",
+        "path_entropy": 4.21046701153548,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "289656",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "5-th-international-conference-on-light-and-light-based-technologies",
+                "entropy": 3.821019930384466
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288713/international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024",
+        "path_entropy": 4.122474810115727,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288713",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024",
+                "entropy": 3.839271457821208
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288605/migraine-attempting-to-understand-a-disorder-of-sensory-amplification",
+        "path_entropy": 4.314125796317179,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288605",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "migraine-attempting-to-understand-a-disorder-of-sensory-amplification",
+                "entropy": 3.909037233693271
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288606/staff-mobilitiy-for-teaching",
+        "path_entropy": 4.339282139363515,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288606",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "staff-mobilitiy-for-teaching",
+                "entropy": 3.8693312611115185
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288287/icmatse-hybrid-conference-tarih-24-26-ekim-2024",
+        "path_entropy": 4.339161733843541,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288287",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "icmatse-hybrid-conference-tarih-24-26-ekim-2024",
+                "entropy": 4.091378214801743
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288288/21st-turkiye-bird-conference",
+        "path_entropy": 4.103933331094997,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288288",
+                "entropy": 0.9182958340544896
+            },
+            {
+                "segment": "21st-turkiye-bird-conference",
+                "entropy": 3.8962915290459272
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/288270/asyu-2024",
+        "path_entropy": 3.8518232255517653,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288270",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "asyu-2024",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/298069/rector-prof-ugur-unal-receives-his-mandate",
+        "path_entropy": 4.3978016382087795,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "298069",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rector-prof-ugur-unal-receives-his-mandate",
+                "entropy": 3.9580595428376295
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/293622/gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu",
+        "path_entropy": 4.398528446141063,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "293622",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu",
+                "entropy": 4.202439360285874
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/289899/our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-",
+        "path_entropy": 4.349562195809898,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "289899",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-",
+                "entropy": 4.050806372726909
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news/289901/great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop",
+        "path_entropy": 4.3547766238879895,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "289901",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop",
+                "entropy": 3.9824858498861033
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/286354/arastirma-olanaklari",
+        "path_entropy": 4.16473647505595,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "286354",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "arastirma-olanaklari",
+                "entropy": 3.108694969562842
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/286300/application-and-research-centers",
+        "path_entropy": 4.250881379939832,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "286300",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "application-and-research-centers",
+                "entropy": 3.6556390622295662
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/8765",
+        "path_entropy": 3.4565647621309536,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "8765",
+                "entropy": 2.0
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/8618",
+        "path_entropy": 3.323231428797621,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "8618",
+                "entropy": 1.5
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/26505",
+        "path_entropy": 3.452819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "26505",
+                "entropy": 1.9219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/215?language=en_US",
+        "path_entropy": 3.3248629576173574,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "215",
+                "entropy": 1.584962500721156
+            }
+        ],
+        "query_string_entropy": 3.2359263506290334,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "en_US",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/88838/Campuses",
+        "path_entropy": 3.573660689688185,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "88838",
+                "entropy": 0.7219280948873623
+            },
+            {
+                "segment": "Campuses",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/cimer/?language=en_US",
+        "path_entropy": 2.5216406363433186,
+        "path_segments_entropy": [
+            {
+                "segment": "cimer",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 3.2359263506290334,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "en_US",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/",
+        "path_entropy": 0.0,
+        "path_segments_entropy": [],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/candidate-student",
+        "path_entropy": 3.5555331514269954,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "candidate-student",
+                "entropy": 3.175123135113461
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/SetCulture?language=tr-TR",
+        "path_entropy": 3.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "SetCulture",
+                "entropy": 2.721928094887362
+            }
+        ],
+        "query_string_entropy": 3.521640636343319,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "tr-TR",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/280316/rector",
+        "path_entropy": 3.9701755214643457,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280316",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "rector",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291531/vice-rectors",
+        "path_entropy": 4.040223928941852,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291531",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "vice-rectors",
+                "entropy": 3.084962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291529/advisors-to-the-rector",
+        "path_entropy": 4.146439344671014,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291529",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "advisors-to-the-rector",
+                "entropy": 3.4130884364257574
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291869/gazi-university-senate",
+        "path_entropy": 4.162814895472355,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291869",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazi-university-senate",
+                "entropy": 3.5726236638951634
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291870/gazi-university-administrative-board",
+        "path_entropy": 4.379319447765434,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291870",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "gazi-university-administrative-board",
+                "entropy": 3.8428572928084965
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/293808/2023-2024-academic-year-academic-calendar",
+        "path_entropy": 4.109704762342726,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "293808",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "2023-2024-academic-year-academic-calendar",
+                "entropy": 3.610584860582954
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/290505/2022-2023-academic-year-academic-calendar",
+        "path_entropy": 4.022497185601596,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "290505",
+                "entropy": 1.9182958340544896
+            },
+            {
+                "segment": "2022-2023-academic-year-academic-calendar",
+                "entropy": 3.5225448490113247
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/280315/contact-us",
+        "path_entropy": 4.235926350629033,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280315",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "contact-us",
+                "entropy": 2.9219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/310485?type=1&title=rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "310485",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.10647195264743,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university",
+                    "entropy": 3.9279006645180305
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/310486?type=1&title=prof-dr-ugur-unal-appointed-as-rector-of-gazi-university",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "310486",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.173407884710462,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "prof-dr-ugur-unal-appointed-as-rector-of-gazi-university",
+                    "entropy": 3.9670218858797184
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/309102?type=1&title=2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "309102",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.234155576633236,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress",
+                    "entropy": 4.102100338269994
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/302917?type=1&title=2023-2024-international-student-admissions-list-of-placed-students",
+        "path_entropy": 3.9434651896016453,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "302917",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 4.175236723893291,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "2023-2024-international-student-admissions-list-of-placed-students",
+                    "entropy": 3.9848159467539515
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/302067?type=1&title=international-student-applications-to-associate-and-undergraduate-degree-programmes",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "302067",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.011093803307071,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "international-student-applications-to-associate-and-undergraduate-degree-programmes",
+                    "entropy": 3.8254841322526802
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/300672?type=1&title=new-promotional-film-of-our-university",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "300672",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.090009177182522,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "new-promotional-film-of-our-university",
+                    "entropy": 3.860320777833043
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement/298936?type=1&title=tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "298936",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.034341467794693,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures",
+                    "entropy": 3.820384317762371
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement-list/1?type=1",
+        "path_entropy": 3.7834651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            },
+            {
+                "segment": "1",
+                "entropy": 0.0
+            }
+        ],
+        "query_string_entropy": 2.584962500721156,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/announcement-list?id=1&type=2",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.277613436819116,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/301143/graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025",
+        "path_entropy": 4.3674464429954565,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301143",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025",
+                "entropy": 4.042782110139293
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/301131/-azerbaijani-turkish-language-center-opened-at-our-university",
+        "path_entropy": 4.352159665838807,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301131",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "-azerbaijani-turkish-language-center-opened-at-our-university",
+                "entropy": 4.029258962447467
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/301130/champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency",
+        "path_entropy": 4.39019092699425,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "301130",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency",
+                "entropy": 4.1435247330076415
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/300085/gazi-university-participates-in-the-state-incentives-promotion-days",
+        "path_entropy": 4.2255920073990945,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300085",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "gazi-university-participates-in-the-state-incentives-promotion-days",
+                "entropy": 3.8700789822919717
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/300086/the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten",
+        "path_entropy": 4.31215241045343,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "300086",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten",
+                "entropy": 4.039750249870295
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/299913/record-number-of-applications-received-for-the-g3-business-ideas-competition",
+        "path_entropy": 4.357446195081197,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299913",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "record-number-of-applications-received-for-the-g3-business-ideas-competition",
+                "entropy": 4.05853529139163
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/299887/the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held",
+        "path_entropy": 4.308232820719445,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "299887",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held",
+                "entropy": 3.9868745995002404
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news-list/",
+        "path_entropy": 3.202819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/290182/let-nature-speak-with-gazi-cfl",
+        "path_entropy": 4.336563099562337,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "290182",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "let-nature-speak-with-gazi-cfl",
+                "entropy": 3.9110804962442782
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/289656/5-th-international-conference-on-light-and-light-based-technologies",
+        "path_entropy": 4.21046701153548,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "289656",
+                "entropy": 2.251629167387823
+            },
+            {
+                "segment": "5-th-international-conference-on-light-and-light-based-technologies",
+                "entropy": 3.821019930384466
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288713/international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024",
+        "path_entropy": 4.122474810115727,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288713",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024",
+                "entropy": 3.839271457821208
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288605/migraine-attempting-to-understand-a-disorder-of-sensory-amplification",
+        "path_entropy": 4.314125796317179,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288605",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "migraine-attempting-to-understand-a-disorder-of-sensory-amplification",
+                "entropy": 3.909037233693271
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288606/staff-mobilitiy-for-teaching",
+        "path_entropy": 4.339282139363515,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288606",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "staff-mobilitiy-for-teaching",
+                "entropy": 3.8693312611115185
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288287/icmatse-hybrid-conference-tarih-24-26-ekim-2024",
+        "path_entropy": 4.339161733843541,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288287",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "icmatse-hybrid-conference-tarih-24-26-ekim-2024",
+                "entropy": 4.091378214801743
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288288/21st-turkiye-bird-conference",
+        "path_entropy": 4.103933331094997,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288288",
+                "entropy": 0.9182958340544896
+            },
+            {
+                "segment": "21st-turkiye-bird-conference",
+                "entropy": 3.8962915290459272
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event/288270/asyu-2024",
+        "path_entropy": 3.8518232255517653,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "288270",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "asyu-2024",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/event-list?id=1&type=1",
+        "path_entropy": 3.202819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event-list",
+                "entropy": 2.9219280948873623
+            }
+        ],
+        "query_string_entropy": 3.095795255000934,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/298069/rector-prof-ugur-unal-receives-his-mandate",
+        "path_entropy": 4.3978016382087795,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "298069",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rector-prof-ugur-unal-receives-his-mandate",
+                "entropy": 3.9580595428376295
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/293622/gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu",
+        "path_entropy": 4.398528446141063,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "293622",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu",
+                "entropy": 4.202439360285874
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/289899/our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-",
+        "path_entropy": 4.349562195809898,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "289899",
+                "entropy": 1.4591479170272448
+            },
+            {
+                "segment": "our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-",
+                "entropy": 4.050806372726909
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/news/289901/great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop",
+        "path_entropy": 4.3547766238879895,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news",
+                "entropy": 2.0
+            },
+            {
+                "segment": "289901",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop",
+                "entropy": 3.9824858498861033
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/286354/arastirma-olanaklari",
+        "path_entropy": 4.16473647505595,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "286354",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "arastirma-olanaklari",
+                "entropy": 3.108694969562842
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/our-websites",
+        "path_entropy": 3.392747410448785,
+        "path_segments_entropy": [
+            {
+                "segment": "our-websites",
+                "entropy": 3.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/SetCulture?language=en-US",
+        "path_entropy": 3.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "SetCulture",
+                "entropy": 2.721928094887362
+            }
+        ],
+        "query_string_entropy": 3.2359263506290334,
+        "query_params_entropy": {
+            "language": [
+                {
+                    "value": "en-US",
+                    "entropy": 2.321928094887362
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291470/politikalarimiz",
+        "path_entropy": 4.124256907946324,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291470",
+                "entropy": 2.584962500721156
+            },
+            {
+                "segment": "politikalarimiz",
+                "entropy": 3.1068905956085184
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/288801/koordinatorlukler",
+        "path_entropy": 4.128724445269141,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288801",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "koordinatorlukler",
+                "entropy": 3.292770193936991
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/249462/rektor",
+        "path_entropy": 3.8035088547976788,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "249462",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "rektor",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291469/rektor-yardimcilari",
+        "path_entropy": 4.249729716863357,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291469",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rektor-yardimcilari",
+                "entropy": 3.4713544870139286
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291510/rektor-danismanlari",
+        "path_entropy": 4.283381405994075,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291510",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "rektor-danismanlari",
+                "entropy": 3.536886723742167
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291527/senato",
+        "path_entropy": 3.8868421881310122,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291527",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "senato",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291528/yonetim-kurulu",
+        "path_entropy": 4.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291528",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "yonetim-kurulu",
+                "entropy": 3.4677201004744997
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/257052/akademik-yukseltilme-ve-atanma-kriterleri",
+        "path_entropy": 4.185372447880186,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "257052",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "akademik-yukseltilme-ve-atanma-kriterleri",
+                "entropy": 3.6468455293152147
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/280322/stratejik-plan-raporlar",
+        "path_entropy": 4.141105590449127,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "280322",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "stratejik-plan-raporlar",
+                "entropy": 3.4800836951874485
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/288692/2022-2023-egitim-ogretim-yili-akademik-takvimi",
+        "path_entropy": 4.1317986335525285,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288692",
+                "entropy": 1.9182958340544893
+            },
+            {
+                "segment": "2022-2023-egitim-ogretim-yili-akademik-takvimi",
+                "entropy": 3.7379322715479337
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/288187/uygulama-ve-arastirma-merkezleri",
+        "path_entropy": 4.163074189428569,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "288187",
+                "entropy": 1.7924812503605778
+            },
+            {
+                "segment": "uygulama-ve-arastirma-merkezleri",
+                "entropy": 3.6525182662886326
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/215/akademik-ve-bilimsel-dergiler",
+        "path_entropy": 3.9702091769252417,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "215",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "akademik-ve-bilimsel-dergiler",
+                "entropy": 3.5090356337908912
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/153/iletisim-sayfasi",
+        "path_entropy": 3.861476859389222,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "153",
+                "entropy": 1.584962500721156
+            },
+            {
+                "segment": "iletisim-sayfasi",
+                "entropy": 3.077819531114783
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/cimer",
+        "path_entropy": 2.584962500721156,
+        "path_segments_entropy": [
+            {
+                "segment": "cimer",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/8/19/8b6b2d48caeb536e1908975a992f301b264883b9&fileName=Gazi%20%C3%9Cniversitesi%20Kurumsal%20Kimlik%20K%C4%B1lavuzu.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.10172004553479,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/8/19/8b6b2d48caeb536e1908975a992f301b264883b9",
+                    "entropy": 4.6523858919233065
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "Gazi Üniversitesi Kurumsal Kimlik Kılavuzu.pdf",
+                    "entropy": 4.2077070644704735
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/18/2018/1/3/158f35ef0fc1132f4a2098880813fbb121f12962&fileName=GAZ%C4%B0%20KURUMSAL%20K%C4%B0ML%C4%B0K%20KILAVUZU(KAYNAK%20DOSYALAR).rar",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.3541071206061455,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/18/2018/1/3/158f35ef0fc1132f4a2098880813fbb121f12962",
+                    "entropy": 4.529952218302635
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "GAZİ KURUMSAL KİMLİK KILAVUZU(KAYNAK DOSYALAR).rar",
+                    "entropy": 4.125533250556851
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2022/8/16/91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip&fileName=91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.963770545541491,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2022/8/16/91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip",
+                    "entropy": 4.8631127869457105
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip",
+                    "entropy": 4.545240210861751
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/291527/gazi-universitesi-senatosu",
+        "path_entropy": 4.141836881113727,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "291527",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "gazi-universitesi-senatosu",
+                "entropy": 3.5175594295963433
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/31301?title=etik-kurullar",
+        "path_entropy": 3.327819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "31301",
+                "entropy": 1.5219280948873621
+            }
+        ],
+        "query_string_entropy": 3.221097250057957,
+        "query_params_entropy": {
+            "title": [
+                {
+                    "value": "etik-kurullar",
+                    "entropy": 3.085055102756477
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/236920",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "236920",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "http://gazi.edu.tr/view/page/256508?siteUri=gazi.edu.tr",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "256508",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 3.576617644908665,
+        "query_params_entropy": {
+            "siteUri": [
+                {
+                    "value": "gazi.edu.tr",
+                    "entropy": 3.277613436819116
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/a2fbd3835619fd22f490f40d3099953b7cdc8ce5&fileName=VERİ SAHİBİNİN AÇIK RIZA BEYAN FORMU.docx",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.482933429045771,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/11/4/a2fbd3835619fd22f490f40d3099953b7cdc8ce5",
+                    "entropy": 4.686133505155333
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "VERİ SAHİBİNİN AÇIK RIZA BEYAN FORMU.docx",
+                    "entropy": 4.305858944160431
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/8e4aec59825c73af7e334d1f8dbf2e894ad7a6de&fileName=Bilgi Formu.docx",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.010865233336257,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/11/4/8e4aec59825c73af7e334d1f8dbf2e894ad7a6de",
+                    "entropy": 4.652827072782646
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "Bilgi Formu.docx",
+                    "entropy": 3.75
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/d74da87f153636822be74189a01a740e83fbfc37&fileName=TAAHHÜTNAME.docx",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.1479350751338115,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/11/4/d74da87f153636822be74189a01a740e83fbfc37",
+                    "entropy": 4.669349656016867
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "TAAHHÜTNAME.docx",
+                    "entropy": 3.452819531114783
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=226561",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.725480556997868,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "226561",
+                    "entropy": 1.9182958340544893
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=186749",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 3.169925001442312,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "186749",
+                    "entropy": 2.584962500721156
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2023/11/29/7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf&fileName=7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.949644156425621,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2023/11/29/7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf",
+                    "entropy": 4.916925043919849
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf",
+                    "entropy": 4.69386979540652
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2022/8/9/5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf&fileName=5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.738543602689104,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2022/8/9/5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf",
+                    "entropy": 4.644331159619298
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf",
+                    "entropy": 3.928884070537635
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2022/8/9/e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf&fileName=e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.841159226332951,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2022/8/9/e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf",
+                    "entropy": 4.750000808741184
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf",
+                    "entropy": 4.219791286223958
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=276846",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.94770277922009,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "276846",
+                    "entropy": 2.2516291673878226
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=244738",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.94770277922009,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "244738",
+                    "entropy": 2.2516291673878226
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=223734",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.725480556997868,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "223734",
+                    "entropy": 1.9182958340544893
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=221476",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.94770277922009,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "221476",
+                    "entropy": 2.2516291673878226
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=180391",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.94770277922009,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "180391",
+                    "entropy": 2.2516291673878226
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=276839",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 3.169925001442312,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "276839",
+                    "entropy": 2.584962500721156
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/posts/download?id=239122",
+        "path_entropy": 3.189898095464287,
+        "path_segments_entropy": [
+            {
+                "segment": "posts",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 2.6416041678685933,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "239122",
+                    "entropy": 1.7924812503605778
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/b17d2053f0ec7de14c076a2b1cb6b0ceaaa034c4&fileName=2007_rapor_tr.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.82968725061312,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2012/10/1/b17d2053f0ec7de14c076a2b1cb6b0ceaaa034c4",
+                    "entropy": 4.536648938360291
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2007_rapor_tr.pdf",
+                    "entropy": 3.4548223999466066
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/3d7c75c9a09ea8020161f80836f6813f2d0f6ee9&fileName=2007_rapor_en.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.904640754262498,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2012/10/1/3d7c75c9a09ea8020161f80836f6813f2d0f6ee9",
+                    "entropy": 4.652102096895198
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2007_rapor_en.pdf",
+                    "entropy": 3.6168746059562227
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/e8b15758002de242e9a5bc889716f0caa44a6e39&fileName=EUA_degerlendirme_raporu.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.002411769835638,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2012/10/1/e8b15758002de242e9a5bc889716f0caa44a6e39",
+                    "entropy": 4.6570293608040645
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "EUA_degerlendirme_raporu.pdf",
+                    "entropy": 3.9232517969803373
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/6c1ad528bc707e54822c091fcc3d0979ec47dd56&fileName=EUA_evaluation_report.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 5.050684170668023,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/450/2012/10/1/6c1ad528bc707e54822c091fcc3d0979ec47dd56",
+                    "entropy": 4.657029360804064
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "EUA_evaluation_report.pdf",
+                    "entropy": 4.083856189774724
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2024/2/7/af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf&fileName=af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.884518586845144,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2024/2/7/af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf",
+                    "entropy": 4.813981481331954
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf",
+                    "entropy": 4.358445075821976
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2022/2/1/48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf&fileName=48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.801898798092045,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2022/2/1/48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf",
+                    "entropy": 4.718454414893239
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf",
+                    "entropy": 4.402227974236665
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2021/3/1/b8b6ff7704a0ee0338f827205979f3f5359aaddc&fileName=2021-yili-performans-programi.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.980126768238301,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2021/3/1/b8b6ff7704a0ee0338f827205979f3f5359aaddc",
+                    "entropy": 4.678268841119737
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2021-yili-performans-programi.pdf",
+                    "entropy": 4.06667707370723
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/1/30/6706718943e0bdb67b00444b0c392caf58fd2268&fileName=2020%20YILI%20PERFORMANS%20PROGRAMI.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.254572866625832,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/1/30/6706718943e0bdb67b00444b0c392caf58fd2268",
+                    "entropy": 4.682217600148626
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2020 YILI PERFORMANS PROGRAMI.pdf",
+                    "entropy": 4.150158513166728
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2017/1/26/72f3c9e802261dc860a1a1147138860c82065b79&fileName=2017-Y%C4%B1l%C4%B1%20Performans-%20Program%C4%B1.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.1035334534284,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2017/1/26/72f3c9e802261dc860a1a1147138860c82065b79",
+                    "entropy": 4.627669813943309
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2017-Yılı Performans- Programı.pdf",
+                    "entropy": 4.3005543853043555
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2015/9/10/87ceadd8d32298b1c007e624b3bc5c6f45bc4c40&fileName=2015%20YILI%20PERFORMANS%20PROGRAMI.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.304532221991731,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2015/9/10/87ceadd8d32298b1c007e624b3bc5c6f45bc4c40",
+                    "entropy": 4.691821566129225
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2015 YILI PERFORMANS PROGRAMI.pdf",
+                    "entropy": 4.27137063437885
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2024/3/4/88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf&fileName=88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.8312586716086825,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2024/3/4/88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf",
+                    "entropy": 4.805898774555002
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf",
+                    "entropy": 4.518622260466753
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/16/2022/8/2/23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf&fileName=23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.797122807840928,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/16/2022/8/2/23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf",
+                    "entropy": 4.755995571881095
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf",
+                    "entropy": 4.506467769068018
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/7/20/44fac1676c7f92d18390e4afdbb4ef1d8eacb8be&fileName=2020%20y%C4%B1l%C4%B1%20Kurumsal%20Mali%20Durum%20ve%20Beklentiler%20Raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.011972882954538,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/7/20/44fac1676c7f92d18390e4afdbb4ef1d8eacb8be",
+                    "entropy": 4.639517947791546
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2020 yılı Kurumsal Mali Durum ve Beklentiler Raporu.pdf",
+                    "entropy": 4.406347842516652
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/30/6e17a32cdb42b0305ef11fb2501f279d30a2b524&fileName=2019-Kurumsal%20Mali%20Durum%20ve%20Beklentiler%20Raporu.docx",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.029999525327792,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2019/7/30/6e17a32cdb42b0305ef11fb2501f279d30a2b524",
+                    "entropy": 4.601754010724692
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2019-Kurumsal Mali Durum ve Beklentiler Raporu.docx",
+                    "entropy": 4.535676940970769
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/23/10f4c1e0baeea7247d6e04c572e63201bc17d67c&fileName=2018-kurumsal-mali-durum-ve-beklentiler-raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.9260033995329096,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2019/7/23/10f4c1e0baeea7247d6e04c572e63201bc17d67c",
+                    "entropy": 4.583668162697312
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2018-kurumsal-mali-durum-ve-beklentiler-raporu.pdf",
+                    "entropy": 4.199079570624174
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/23/10e34ebf37cbe931660e9b584aa81bd61ddfb72e&fileName=2017-yili-kurumsal%20mali%20durum%20ve%20beklentiler%20raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.969364195377916,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2019/7/23/10e34ebf37cbe931660e9b584aa81bd61ddfb72e",
+                    "entropy": 4.648941998817049
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2017-yili-kurumsal mali durum ve beklentiler raporu.pdf",
+                    "entropy": 4.327753588032401
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2016/8/17/39c25f8b69672fa93898f124b9e110793ab4eacc&fileName=2016-Y%C4%B1l%C4%B1-Kurumsal-Mali-Durum-ve-Beklentiler-Raporu-17-08-2016.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.1790620601900015,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2016/8/17/39c25f8b69672fa93898f124b9e110793ab4eacc",
+                    "entropy": 4.699573880015662
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2016-Yılı-Kurumsal-Mali-Durum-ve-Beklentiler-Raporu-17-08-2016.pdf",
+                    "entropy": 4.548890719294249
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2021/4/13/c2b78e4acd67a27277ce2b64344a8ebe7834f76e&fileName=2020%20Y%C4%B1l%C4%B1%20%C4%B0dare%20Faaliyet%20Raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.947504604662828,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2021/4/13/c2b78e4acd67a27277ce2b64344a8ebe7834f76e",
+                    "entropy": 4.536112291176977
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2020 Yılı İdare Faaliyet Raporu.pdf",
+                    "entropy": 4.21499730265925
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/3/17/c7e0b7df0db128d2d2f866143dd305ab75af9d2d&fileName=Gazi%20%C3%9Cniversitesi%202019%20Faaliyet%20Raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 5.010433979834185,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/3/17/c7e0b7df0db128d2d2f866143dd305ab75af9d2d",
+                    "entropy": 4.587339989692746
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "Gazi Üniversitesi 2019 Faaliyet Raporu.pdf",
+                    "entropy": 4.431257232859706
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2018/5/21/33303bc078527dddf2db37bf6cb209944edf5a85&fileName=2017.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.890243378552403,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2018/5/21/33303bc078527dddf2db37bf6cb209944edf5a85",
+                    "entropy": 4.682217600148626
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2017.pdf",
+                    "entropy": 3.0
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2018/5/21/e26b4ba94b5e19942eb8935a7119278694fba608&fileName=2016-faaliyet-raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.9090709267673045,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2018/5/21/e26b4ba94b5e19942eb8935a7119278694fba608",
+                    "entropy": 4.604468335670605
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2016-faaliyet-raporu.pdf",
+                    "entropy": 4.053508854797679
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2016/4/18/1adf4bdc309a1937e9352236ac56455a3e56863d&fileName=2015-yili-idare-faaliyet-raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.925063623530039,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2016/4/18/1adf4bdc309a1937e9352236ac56455a3e56863d",
+                    "entropy": 4.646697830949411
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2015-yili-idare-faaliyet-raporu.pdf",
+                    "entropy": 3.9648576597402947
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2015/9/10/404d9bdaea09c6592a97f6cccc00d2c7298a8286&fileName=2014%20Y%C4%B1l%C4%B1%20%C4%B0dare%20Faaliyet%20Raporu.pdf",
+        "path_entropy": 2.721928094887362,
+        "path_segments_entropy": [
+            {
+                "segment": "download",
+                "entropy": 2.5
+            }
+        ],
+        "query_string_entropy": 4.978295222757006,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2015/9/10/404d9bdaea09c6592a97f6cccc00d2c7298a8286",
+                    "entropy": 4.595516296545549
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "2014 Yılı İdare Faaliyet Raporu.pdf",
+                    "entropy": 4.329283016944965
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75389",
+        "path_entropy": 3.577819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75389",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75394",
+        "path_entropy": 3.577819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75394",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/290564",
+        "path_entropy": 3.6901165175936654,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "290564",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75391",
+        "path_entropy": 3.577819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75391",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75392",
+        "path_entropy": 3.577819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75392",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75390",
+        "path_entropy": 3.577819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75390",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/75395",
+        "path_entropy": 3.452819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "75395",
+                "entropy": 1.9219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/290561",
+        "path_entropy": 3.6901165175936654,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "290561",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/169252",
+        "path_entropy": 3.572469458770136,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "169252",
+                "entropy": 2.251629167387823
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/page/169254",
+        "path_entropy": 3.6901165175936654,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "page",
+                "entropy": 2.0
+            },
+            {
+                "segment": "169254",
+                "entropy": 2.584962500721156
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news-list",
+        "path_entropy": 3.2402239289418517,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event-list",
+        "path_entropy": 3.202819531114783,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event-list",
+                "entropy": 2.9219280948873623
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/admin",
+        "path_entropy": 2.584962500721156,
+        "path_segments_entropy": [
+            {
+                "segment": "admin",
+                "entropy": 2.321928094887362
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf&fileName=cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.824468678506332,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/14/2025/6/3/cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf",
+                    "entropy": 4.7986961467412765
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf",
+                    "entropy": 4.186033716352762
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf&fileName=9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.962595529981108,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/14/2025/6/3/9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf",
+                    "entropy": 4.882662497871841
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf",
+                    "entropy": 4.483467386520037
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx&fileName=c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.903237278139157,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/14/2025/6/3/c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx",
+                    "entropy": 4.8578843434708805
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx",
+                    "entropy": 4.5092468650195086
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf&fileName=aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.864385973732853,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/14/2025/6/3/aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf",
+                    "entropy": 4.787791999086643
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf",
+                    "entropy": 4.404876045693813
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list?id=1&type=1&SearchString=&dates=&date=",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.8500481587392756,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list?id=2&type=1&SearchString=&dates=&date=",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.9026797376866442,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list?id=17&type=1&SearchString=&dates=&date=",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.9233659245349726,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "17",
+                    "entropy": 1.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement/299685?type=2&title=gazi-university-students-who-lost-their-lives-in-the-earthquake-disaster-in-our-country",
+        "path_entropy": 3.8634651896016456,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement",
+                "entropy": 2.751629167387823
+            },
+            {
+                "segment": "299685",
+                "entropy": 2.2516291673878226
+            }
+        ],
+        "query_string_entropy": 4.136214312591992,
+        "query_params_entropy": {
+            "type": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ],
+            "title": [
+                {
+                    "value": "gazi-university-students-who-lost-their-lives-in-the-earthquake-disaster-in-our-country",
+                    "entropy": 3.9715000273841454
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/announcement-list?id=1&type=2&SearchString=&dates=&date=",
+        "path_entropy": 3.708132064658602,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "announcement-list",
+                "entropy": 3.381580488309164
+            }
+        ],
+        "query_string_entropy": 3.9026797376866442,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news-list?id=1&type=&SearchString=&dates=&date=",
+        "path_entropy": 3.2402239289418517,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 3.8278475418785787,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "1",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news-list?id=2&type=&SearchString=&dates=&date=",
+        "path_entropy": 3.2402239289418517,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 3.8278475418785787,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "2",
+                    "entropy": 0.0
+                }
+            ],
+            "type": [],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/news-list?id=53&type=&SearchString=&dates=&date=",
+        "path_entropy": 3.2402239289418517,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "news-list",
+                "entropy": 2.94770277922009
+            }
+        ],
+        "query_string_entropy": 3.9026797376866442,
+        "query_params_entropy": {
+            "id": [
+                {
+                    "value": "53",
+                    "entropy": 1.0
+                }
+            ],
+            "type": [],
+            "SearchString": [],
+            "dates": [],
+            "date": []
+        }
+    },
+    {
+        "url": "https://gazi.edu.tr/view/event/287684/kuzey-kafkas-dilleri-sempozyumu",
+        "path_entropy": 4.473269689515107,
+        "path_segments_entropy": [
+            {
+                "segment": "view",
+                "entropy": 2.0
+            },
+            {
+                "segment": "event",
+                "entropy": 1.9219280948873623
+            },
+            {
+                "segment": "287684",
+                "entropy": 2.2516291673878226
+            },
+            {
+                "segment": "kuzey-kafkas-dilleri-sempozyumu",
+                "entropy": 3.889049535914169
+            }
+        ],
+        "query_string_entropy": 0.0,
+        "query_params_entropy": {}
+    },
+    {
+        "url": "https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/12/30/2997a0aebc9bc17f396f9584853f1259e6defd29&fileName=EK-1.pdf",
+        "path_entropy": 2.94770277922009,
+        "path_segments_entropy": [
+            {
+                "segment": "Download",
+                "entropy": 2.75
+            }
+        ],
+        "query_string_entropy": 4.966364498578625,
+        "query_params_entropy": {
+            "link": [
+                {
+                    "value": "https://webupload.gazi.edu.tr/upload/1/2020/12/30/2997a0aebc9bc17f396f9584853f1259e6defd29",
+                    "entropy": 4.677693169694286
+                }
+            ],
+            "fileName": [
+                {
+                    "value": "EK-1.pdf",
+                    "entropy": 3.0
+                }
+            ]
+        }
+    }
+]

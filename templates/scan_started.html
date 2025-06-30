@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarama Başlatıldı</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { 
+            background-color: #f8f9fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            text-align: center;
+        }
+        .status-container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+        .status-container h1 {
+            color: #28a745; /* Yeşil renk */
+            margin-bottom: 25px;
+        }
+        .status-container p {
+            font-size: 1.1em;
+            margin-bottom: 15px;
+        }
+        .scan-id {
+            font-weight: bold;
+            color: #007bff;
+            word-break: break-all; /* Uzun ID'ler için satır kırma */
+        }
+        .spinner-border { /* Yükleme animasyonu için */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="status-container">
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Yükleniyor...</span>
+        </div>
+        <h1>Tarama Başarıyla Başlatıldı!</h1>
+        <p><strong>Hedef URL:</strong> {{ target_url }}</p>
+        <p><strong>Tarama ID'niz:</strong> <span class="scan-id">{{ scan_id }}</span></p>
+        <p>Tarama arka planda devam ediyor. Sonuçlar hazır olduğunda aşağıdaki linkten kontrol edebilirsiniz. Bu işlem hedefin büyüklüğüne göre biraz zaman alabilir.</p>
+        <a href="{{ url_for('show_results', scan_id=scan_id) }}" class="btn btn-info btn-lg mt-3">Sonuçları Görüntüle</a>
+        <hr class="my-4">
+        <a href="{{ url_for('index') }}" class="btn btn-secondary">Yeni Tarama Başlat</a>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

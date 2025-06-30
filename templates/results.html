@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarama Sonuçları - {{ scan_id }}</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { 
+            font-family: sans-serif; 
+            margin: 20px; 
+            background-color: #f8f9fa;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 { 
+            color: #343a40;
+            margin-bottom: 20px;
+        }
+        pre { 
+            background-color: #e9ecef; 
+            padding: 15px; 
+            border: 1px solid #ced4da; 
+            white-space: pre-wrap; 
+            word-wrap: break-word; 
+            border-radius: 4px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .accordion .card-header {
+            cursor: pointer;
+        }
+        .btn-link {
+            text-decoration: none !important;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .btn-link:hover {
+            color: #0056b3;
+        }
+        .card-body{
+            background-color: #fff;
+        }
+        .status-log {
+            background-color: #f0f0f0;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            font-family: monospace;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Tarama Sonuçları (ID: <span class="text-muted">{{ scan_id }}</span>)</h1>
+        
+        <h3>Tarama Durumu Günlüğü</h3>
+        <div class="status-log">
+            {% for line in scan_status_lines %}
+                {{ line }}<br>
+            {% else %}
+                Durum bilgisi yüklenemedi veya tarama henüz başlamadı.
+            {% endfor %}
+        </div>
+
+        <div class="accordion" id="resultsAccordion">
+            <div class="card">
+                <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left" type="button">
+                            Zafiyet Raporu
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#resultsAccordion">
+                    <div class="card-body">
+                        <pre>{{ report_content }}</pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button">
+                            URL Entropi Analizi (JSON)
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#resultsAccordion">
+                    <div class="card-body">
+                        <pre>{{ entropy_content }}</pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="mt-4">
+            <a href="{{ url_for('index') }}" class="btn btn-secondary">Yeni Tarama Başlat</a>
+            <a href="{{ url_for('show_results', scan_id=scan_id) }}" class="btn btn-info">Sayfayı Yenile (Durumu Güncelle)</a>
+        </p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

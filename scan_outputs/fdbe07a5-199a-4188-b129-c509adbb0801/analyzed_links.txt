@@ -1,0 +1,2454 @@
+# Analiz Raporu: C:\Users\erdem\OneDrive\Masaüstü\guvenlik_taramasi_web\scan_outputs\fdbe07a5-199a-4188-b129-c509adbb0801\analyzed_links.txt
+# Kaynak Dosya: C:\Users\erdem\OneDrive\Masaüstü\guvenlik_taramasi_web\scan_outputs\fdbe07a5-199a-4188-b129-c509adbb0801\bulunan_linkler.txt
+# Toplam URL: 262
+
+URL: https://gazi.edu.tr/
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/candidate-student
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/SetCulture?language=en-US
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: en-US
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/217061
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291470/politikalarimiz
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/237161/kurumsal-kimlik-kilavuzu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/236920
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/288801/koordinatorlukler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/221321/organizasyon-semalari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/162185
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/249462/rektor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291469/rektor-yardimcilari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291510/rektor-danismanlari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291527/senato
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291528/yonetim-kurulu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/257052/akademik-yukseltilme-ve-atanma-kriterleri
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/256514
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/280322/stratejik-plan-raporlar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/295794/2024-2025-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/295740/2023-2024-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/288692/2022-2023-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/286766/2021-2022-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/288187/uygulama-ve-arastirma-merkezleri
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/215/akademik-ve-bilimsel-dergiler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/153/iletisim-sayfasi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/169251
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/cimer
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/313665?type=1&title=2025-yili-sosyal-transkript-basvurulari-basladi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2025-yili-sosyal-transkript-basvurulari-basladi
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/300361/tubitak-2024-1-2209-a-ve-b-universite-ogrencileri-arastirma-projeleri-destekleme-programi-sonuclari-aciklandi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/299672/tubitak-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-programi-kapsaminda-2024-yili-2-doneminde-universitemizden-5-proje-desteklenmeye-hak-kazandi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/295794/2024-2025-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291957
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/292239
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/280311
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316816?type=1&title=elestirel-yonetim-perspektifinden-ekolojik-kriz-ve-surdurulebilirlik
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: elestirel-yonetim-perspektifinden-ekolojik-kriz-ve-surdurulebilirlik
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316786?type=1&title=20251-donem-tus-yerlestirme-sonucuna-gore-universitemize-yerlestirilen-adaylarin-dikkatine
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 20251-donem-tus-yerlestirme-sonucuna-gore-universitemize-yerlestirilen-adaylarin-dikkatine
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316767?type=1&title=sosyal-transkript-2025-bahar-donemi-basvurulari-basliyor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: sosyal-transkript-2025-bahar-donemi-basvurulari-basliyor
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316569?type=1&title=2025-2026-akademik-yili-guz-yariyili-lisansustu-ogrenci-basvurulari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2025-2026-akademik-yili-guz-yariyili-lisansustu-ogrenci-basvurulari
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316565?type=1&title=endnote-2025-online-egitimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: endnote-2025-online-egitimi
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316523?type=1&title=gazi-universitesinde-ingilizce-kurslari-basliyor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: gazi-universitesinde-ingilizce-kurslari-basliyor
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/316498?type=1&title=ebsco-ve-yapay-zeka-ile-bilimsel-arastirma-ve-literatur-taramanin-donusumu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: ebsco-ve-yapay-zeka-ile-bilimsel-arastirma-ve-literatur-taramanin-donusumu
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list/1?type=1
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list?id=1&type=2
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 2
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301185/ekvador-ankara-buyukelcisi-pedro-vintimilla-vega-rektorumuz-prof-dr-ugur-unal-i-ziyaret-etti
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301174/rektorumuz-prof-dr-ugur-unal-gazi-hastanesi-idari-personeli-ile-bir-araya-geldi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301166/universitemiz-spor-bilimleri-fakultesi-1-mezunlar-bulusma-gunu-gerceklestirildi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301163/gazi-universitesi-nafsa-2025-te-study-in-turkiye-pavilyonunda-yerini-aldi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301173/-etkili-iletisim-diksiyon-beden-dili-protokol-kurallari-adli-hizmet-ici-egitim-programi-duzenlendi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301117/teknik-bilimler-meslek-yuksekokulumuz-mezunlarini-ugurladi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301116/universitemizde-azerbaycan-turkcesi-egitim-ocagi-acildi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news-list/
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290268/temel-ilk-yardim-egitimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/289612/erasmus-mesleki-mukemmeliyet-merkezleri-cove-cagrisi-acildi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290270/gozden-kacan-tehlike-pisirme-dumari-aeroseolleri
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290117/cocuklarda-yabanci-cisim-yutulmasina-multidisipliner-yaklasim
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290013/gazi-universitesi-mimarlik-fakultesi-3-kat-ogrenci-fikir-projesi-yarismasi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290290/hijyen
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290280/hemsirelik-fakultesi-mezuniyet-toreni
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290318/fen-fakultesi-mezuniyet-toreni
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event-list?id=1&type=1
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 1
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/243044?title=kurum-disi-etkinlikler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - title: kurum-disi-etkinlikler
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/300165/gazi-universitesi-2025-qs-alan-siralamasinda-11-alanda-turkiyenin-zirvesinde
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/300144/universitemizin-urap-siralamalarinda-yukselisi-devam-ediyor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/299481/ui-greenmetric-dunya-universite-siralamalari-2024-surdurulebilirlikte-oncu-universiteler-aciklandi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/298480/universitemiz-arastirma-universiteleri-siralamasinda-15-siraya-yukseldi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/280326/arastirma-olanaklari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/280311/gazinet
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/bize-ulasin
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/169251/yerleskeler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/cimer/?language=tr_TR
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: tr_TR
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/our-websites
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/237161
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/faculties-and-vocational-schools
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/programs
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/spor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/social-services
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/green-campus
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/library
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/student-societies
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/research
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/social-opportunities
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/SetCulture?language=tr-TR
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: tr-TR
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/193004
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/294625/our-policies
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/175633
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/280316/rector
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291531/vice-rectors
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291529/advisors-to-the-rector
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291869/gazi-university-senate
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/291870/gazi-university-administrative-board
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/295956/2024-2025-academic-year-calendar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/293808/2023-2024-academic-year-academic-calendar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/290505/2022-2023-academic-year-academic-calendar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/286300
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/88838
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/280315/contact-us
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/310485?type=1&title=rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/310486?type=1&title=prof-dr-ugur-unal-appointed-as-rector-of-gazi-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: prof-dr-ugur-unal-appointed-as-rector-of-gazi-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/309102?type=1&title=2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/302917?type=1&title=2023-2024-international-student-admissions-list-of-placed-students
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2023-2024-international-student-admissions-list-of-placed-students
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/302067?type=1&title=international-student-applications-to-associate-and-undergraduate-degree-programmes
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: international-student-applications-to-associate-and-undergraduate-degree-programmes
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/300672?type=1&title=new-promotional-film-of-our-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: new-promotional-film-of-our-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/298936?type=1&title=tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301143/graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301131/-azerbaijani-turkish-language-center-opened-at-our-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/301130/champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/300085/gazi-university-participates-in-the-state-incentives-promotion-days
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/300086/the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/299913/record-number-of-applications-received-for-the-g3-business-ideas-competition
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/299887/the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/290182/let-nature-speak-with-gazi-cfl
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/289656/5-th-international-conference-on-light-and-light-based-technologies
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288713/international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288605/migraine-attempting-to-understand-a-disorder-of-sensory-amplification
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288606/staff-mobilitiy-for-teaching
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288287/icmatse-hybrid-conference-tarih-24-26-ekim-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288288/21st-turkiye-bird-conference
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/288270/asyu-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/298069/rector-prof-ugur-unal-receives-his-mandate
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/293622/gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/289899/our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news/289901/great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/286354/arastirma-olanaklari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/286300/application-and-research-centers
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/8765
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/8618
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/26505
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/215?language=en_US
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: en_US
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/88838/Campuses
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/cimer/?language=en_US
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: en_US
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/candidate-student
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/SetCulture?language=tr-TR
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: tr-TR
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/280316/rector
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291531/vice-rectors
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291529/advisors-to-the-rector
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291869/gazi-university-senate
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291870/gazi-university-administrative-board
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/293808/2023-2024-academic-year-academic-calendar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/290505/2022-2023-academic-year-academic-calendar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/280315/contact-us
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/310485?type=1&title=rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: rector-prof-dr-ugur-unals-address-to-the-students-admitted-to-gazi-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/310486?type=1&title=prof-dr-ugur-unal-appointed-as-rector-of-gazi-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: prof-dr-ugur-unal-appointed-as-rector-of-gazi-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/309102?type=1&title=2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2024-2025-academic-year-official-announcement-for-international-student-applications-associate-and-undergraduate-degress
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/302917?type=1&title=2023-2024-international-student-admissions-list-of-placed-students
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: 2023-2024-international-student-admissions-list-of-placed-students
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/302067?type=1&title=international-student-applications-to-associate-and-undergraduate-degree-programmes
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: international-student-applications-to-associate-and-undergraduate-degree-programmes
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/300672?type=1&title=new-promotional-film-of-our-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: new-promotional-film-of-our-university
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement/298936?type=1&title=tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+  - title: tubitak-research-institute-for-fundamental-sciences-tbae-tbae-lectures
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement-list/1?type=1
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 1
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/announcement-list?id=1&type=2
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 2
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/301143/graduation-ceremony-of-the-vocational-school-of-technical-sciences-class-of-2025
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/301131/-azerbaijani-turkish-language-center-opened-at-our-university
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/301130/champions-league-central-projects-information-day-held-in-collaboration-with-our-university-and-the-turkish-national-agency
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/300085/gazi-university-participates-in-the-state-incentives-promotion-days
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/300086/the-khojaly-genocide-commemorated-at-gazi-university-we-will-not-forget-we-will-not-let-it-be-forgotten
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/299913/record-number-of-applications-received-for-the-g3-business-ideas-competition
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/299887/the-research-universities-monitoring-evaluation-and-execution-idy-board-meeting-held
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news-list/
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/290182/let-nature-speak-with-gazi-cfl
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/289656/5-th-international-conference-on-light-and-light-based-technologies
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288713/international-conference-on-energy-and-environmental-technologies-in-engineering-and-architecture-icetea-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288605/migraine-attempting-to-understand-a-disorder-of-sensory-amplification
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288606/staff-mobilitiy-for-teaching
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288287/icmatse-hybrid-conference-tarih-24-26-ekim-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288288/21st-turkiye-bird-conference
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event/288270/asyu-2024
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/event-list?id=1&type=1
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 1
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/298069/rector-prof-ugur-unal-receives-his-mandate
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/293622/gazi-university-shanghai-ranking-continues-its-successful-performance-in-2023-arwu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/289899/our-graduate-received-the-first-prize-at-teknofest-black-sea-2022-
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/news/289901/great-success-from-our-faculty-of-technology-students-at-teknofest-turkeys-fastest-turquoise-hyperloop
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/286354/arastirma-olanaklari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/our-websites
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/SetCulture?language=en-US
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - language: en-US
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291470/politikalarimiz
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/288801/koordinatorlukler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/249462/rektor
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291469/rektor-yardimcilari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291510/rektor-danismanlari
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291527/senato
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291528/yonetim-kurulu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/257052/akademik-yukseltilme-ve-atanma-kriterleri
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/280322/stratejik-plan-raporlar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/288692/2022-2023-egitim-ogretim-yili-akademik-takvimi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/288187/uygulama-ve-arastirma-merkezleri
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/215/akademik-ve-bilimsel-dergiler
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/153/iletisim-sayfasi
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/cimer
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/8/19/8b6b2d48caeb536e1908975a992f301b264883b9&fileName=Gazi%20%C3%9Cniversitesi%20Kurumsal%20Kimlik%20K%C4%B1lavuzu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/8/19/8b6b2d48caeb536e1908975a992f301b264883b9
+  - fileName: Gazi Üniversitesi Kurumsal Kimlik Kılavuzu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/18/2018/1/3/158f35ef0fc1132f4a2098880813fbb121f12962&fileName=GAZ%C4%B0%20KURUMSAL%20K%C4%B0ML%C4%B0K%20KILAVUZU(KAYNAK%20DOSYALAR).rar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/18/2018/1/3/158f35ef0fc1132f4a2098880813fbb121f12962
+  - fileName: GAZİ KURUMSAL KİMLİK KILAVUZU(KAYNAK DOSYALAR).rar
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2022/8/16/91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip&fileName=91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2022/8/16/91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip
+  - fileName: 91e5ce54-3bcc-46b8-b7d1-01e83ad9037c-simge-kutuphanesi.zip
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/291527/gazi-universitesi-senatosu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/31301?title=etik-kurullar
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - title: etik-kurullar
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/236920
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/view/page/256508?siteUri=gazi.edu.tr
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - siteUri: gazi.edu.tr
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/a2fbd3835619fd22f490f40d3099953b7cdc8ce5&fileName=VERİ SAHİBİNİN AÇIK RIZA BEYAN FORMU.docx
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/11/4/a2fbd3835619fd22f490f40d3099953b7cdc8ce5
+  - fileName: VERİ SAHİBİNİN AÇIK RIZA BEYAN FORMU.docx
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/8e4aec59825c73af7e334d1f8dbf2e894ad7a6de&fileName=Bilgi Formu.docx
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/11/4/8e4aec59825c73af7e334d1f8dbf2e894ad7a6de
+  - fileName: Bilgi Formu.docx
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: http://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/11/4/d74da87f153636822be74189a01a740e83fbfc37&fileName=TAAHHÜTNAME.docx
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/11/4/d74da87f153636822be74189a01a740e83fbfc37
+  - fileName: TAAHHÜTNAME.docx
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=226561
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 226561
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=186749
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 186749
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2023/11/29/7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf&fileName=7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2023/11/29/7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf
+  - fileName: 7f8f5c76-144d-46f9-9787-a84e1a68334c-2019-2023-guncellenmis-stratejik-plan-izleme-raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2022/8/9/5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf&fileName=5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2022/8/9/5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf
+  - fileName: 5912c1a4-d644-42bc-946e-09642aa2dd44-kIdr_2021.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2022/8/9/e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf&fileName=e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2022/8/9/e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf
+  - fileName: e824bd4b-20fb-4a93-8f81-0d0dfdf15114-kIdr_gu_eng.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=276846
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 276846
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=244738
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 244738
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=223734
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 223734
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=221476
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 221476
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=180391
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 180391
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=276839
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 276839
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/posts/download?id=239122
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 239122
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/b17d2053f0ec7de14c076a2b1cb6b0ceaaa034c4&fileName=2007_rapor_tr.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2012/10/1/b17d2053f0ec7de14c076a2b1cb6b0ceaaa034c4
+  - fileName: 2007_rapor_tr.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/3d7c75c9a09ea8020161f80836f6813f2d0f6ee9&fileName=2007_rapor_en.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2012/10/1/3d7c75c9a09ea8020161f80836f6813f2d0f6ee9
+  - fileName: 2007_rapor_en.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/e8b15758002de242e9a5bc889716f0caa44a6e39&fileName=EUA_degerlendirme_raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2012/10/1/e8b15758002de242e9a5bc889716f0caa44a6e39
+  - fileName: EUA_degerlendirme_raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/450/2012/10/1/6c1ad528bc707e54822c091fcc3d0979ec47dd56&fileName=EUA_evaluation_report.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/450/2012/10/1/6c1ad528bc707e54822c091fcc3d0979ec47dd56
+  - fileName: EUA_evaluation_report.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2024/2/7/af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf&fileName=af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2024/2/7/af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf
+  - fileName: af50c655-cb16-4007-8c66-875902b805c6-2024-performans-programi.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2022/2/1/48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf&fileName=48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2022/2/1/48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf
+  - fileName: 48005a25-a7be-4441-827d-b94d61b4a02d-2022-yili-performans-programi.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2021/3/1/b8b6ff7704a0ee0338f827205979f3f5359aaddc&fileName=2021-yili-performans-programi.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2021/3/1/b8b6ff7704a0ee0338f827205979f3f5359aaddc
+  - fileName: 2021-yili-performans-programi.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/1/30/6706718943e0bdb67b00444b0c392caf58fd2268&fileName=2020%20YILI%20PERFORMANS%20PROGRAMI.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/1/30/6706718943e0bdb67b00444b0c392caf58fd2268
+  - fileName: 2020 YILI PERFORMANS PROGRAMI.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2017/1/26/72f3c9e802261dc860a1a1147138860c82065b79&fileName=2017-Y%C4%B1l%C4%B1%20Performans-%20Program%C4%B1.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2017/1/26/72f3c9e802261dc860a1a1147138860c82065b79
+  - fileName: 2017-Yılı Performans- Programı.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2015/9/10/87ceadd8d32298b1c007e624b3bc5c6f45bc4c40&fileName=2015%20YILI%20PERFORMANS%20PROGRAMI.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2015/9/10/87ceadd8d32298b1c007e624b3bc5c6f45bc4c40
+  - fileName: 2015 YILI PERFORMANS PROGRAMI.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2024/3/4/88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf&fileName=88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2024/3/4/88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf
+  - fileName: 88a09629-ef2a-40ac-b082-09f208d850c1-2023-kurumsal-mali-durum-ve-beklentiler-raporu_1.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/16/2022/8/2/23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf&fileName=23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/16/2022/8/2/23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf
+  - fileName: 23c65add-229b-4157-81d3-9e2df965e1aa-2022-kurumsal-mali-durum-ve-beklentiler-raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/7/20/44fac1676c7f92d18390e4afdbb4ef1d8eacb8be&fileName=2020%20y%C4%B1l%C4%B1%20Kurumsal%20Mali%20Durum%20ve%20Beklentiler%20Raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/7/20/44fac1676c7f92d18390e4afdbb4ef1d8eacb8be
+  - fileName: 2020 yılı Kurumsal Mali Durum ve Beklentiler Raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/30/6e17a32cdb42b0305ef11fb2501f279d30a2b524&fileName=2019-Kurumsal%20Mali%20Durum%20ve%20Beklentiler%20Raporu.docx
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2019/7/30/6e17a32cdb42b0305ef11fb2501f279d30a2b524
+  - fileName: 2019-Kurumsal Mali Durum ve Beklentiler Raporu.docx
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/23/10f4c1e0baeea7247d6e04c572e63201bc17d67c&fileName=2018-kurumsal-mali-durum-ve-beklentiler-raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2019/7/23/10f4c1e0baeea7247d6e04c572e63201bc17d67c
+  - fileName: 2018-kurumsal-mali-durum-ve-beklentiler-raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2019/7/23/10e34ebf37cbe931660e9b584aa81bd61ddfb72e&fileName=2017-yili-kurumsal%20mali%20durum%20ve%20beklentiler%20raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2019/7/23/10e34ebf37cbe931660e9b584aa81bd61ddfb72e
+  - fileName: 2017-yili-kurumsal mali durum ve beklentiler raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2016/8/17/39c25f8b69672fa93898f124b9e110793ab4eacc&fileName=2016-Y%C4%B1l%C4%B1-Kurumsal-Mali-Durum-ve-Beklentiler-Raporu-17-08-2016.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2016/8/17/39c25f8b69672fa93898f124b9e110793ab4eacc
+  - fileName: 2016-Yılı-Kurumsal-Mali-Durum-ve-Beklentiler-Raporu-17-08-2016.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2021/4/13/c2b78e4acd67a27277ce2b64344a8ebe7834f76e&fileName=2020%20Y%C4%B1l%C4%B1%20%C4%B0dare%20Faaliyet%20Raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2021/4/13/c2b78e4acd67a27277ce2b64344a8ebe7834f76e
+  - fileName: 2020 Yılı İdare Faaliyet Raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2020/3/17/c7e0b7df0db128d2d2f866143dd305ab75af9d2d&fileName=Gazi%20%C3%9Cniversitesi%202019%20Faaliyet%20Raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/3/17/c7e0b7df0db128d2d2f866143dd305ab75af9d2d
+  - fileName: Gazi Üniversitesi 2019 Faaliyet Raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2018/5/21/33303bc078527dddf2db37bf6cb209944edf5a85&fileName=2017.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2018/5/21/33303bc078527dddf2db37bf6cb209944edf5a85
+  - fileName: 2017.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2018/5/21/e26b4ba94b5e19942eb8935a7119278694fba608&fileName=2016-faaliyet-raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2018/5/21/e26b4ba94b5e19942eb8935a7119278694fba608
+  - fileName: 2016-faaliyet-raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2016/4/18/1adf4bdc309a1937e9352236ac56455a3e56863d&fileName=2015-yili-idare-faaliyet-raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2016/4/18/1adf4bdc309a1937e9352236ac56455a3e56863d
+  - fileName: 2015-yili-idare-faaliyet-raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/download/?link=https://webupload.gazi.edu.tr/upload/1/2015/9/10/404d9bdaea09c6592a97f6cccc00d2c7298a8286&fileName=2014%20Y%C4%B1l%C4%B1%20%C4%B0dare%20Faaliyet%20Raporu.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2015/9/10/404d9bdaea09c6592a97f6cccc00d2c7298a8286
+  - fileName: 2014 Yılı İdare Faaliyet Raporu.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75389
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75394
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/290564
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75391
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75392
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75390
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/75395
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/290561
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/169252
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/page/169254
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news-list
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event-list
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/admin
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf&fileName=cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/14/2025/6/3/cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf
+  - fileName: cd7cf2ba-808c-4422-948f-b1c5e0fe4c00-genel_dilekce-1.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf&fileName=9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/14/2025/6/3/9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf
+  - fileName: 9ba4528b-0c3a-4438-ab95-7b7d4b17bfce-genel_ozgecmis.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx&fileName=c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/14/2025/6/3/c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx
+  - fileName: c785d764-cfca-42ea-89a9-93b5d7ad2a29-2025-1-donem-yabuyr-tus-dilekcesi.docx
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/14/2025/6/3/aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf&fileName=aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/14/2025/6/3/aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf
+  - fileName: aec063a0-c01c-4772-bea4-f7d5348420a9-maddi-guvence-taahhut.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list?id=1&type=1&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 1
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list?id=2&type=1&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 2
+  - type: 1
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list?id=17&type=1&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 17
+  - type: 1
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement/299685?type=2&title=gazi-university-students-who-lost-their-lives-in-the-earthquake-disaster-in-our-country
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - type: 2
+  - title: gazi-university-students-who-lost-their-lives-in-the-earthquake-disaster-in-our-country
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/announcement-list?id=1&type=2&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 2
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news-list?id=1&type=&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 1
+  - type: 
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news-list?id=2&type=&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 2
+  - type: 
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/news-list?id=53&type=&SearchString=&dates=&date=
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - id: 53
+  - type: 
+  - SearchString: 
+  - dates: 
+  - date: 
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/view/event/287684/kuzey-kafkas-dilleri-sempozyumu
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  (Bu dinamik URL'de GET parametresi bulunamadı.)
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
+URL: https://gazi.edu.tr/Download?link=https://webupload.gazi.edu.tr/upload/1/2020/12/30/2997a0aebc9bc17f396f9584853f1259e6defd29&fileName=EK-1.pdf
+Statik mi?: Hayır
+Potansiyel Giriş Noktaları (GET Parametreleri):
+  - link: https://webupload.gazi.edu.tr/upload/1/2020/12/30/2997a0aebc9bc17f396f9584853f1259e6defd29
+  - fileName: EK-1.pdf
+URL Statik Güvenlik Analizi Sonucu:
+  Tehdit Var mı?: Hayır
+  Bulunan Tehdit Sayısı: 0
+  (URL'nin kendisinde bilinen statik tehdit kalıbı bulunamadı.)
+------------------------------
