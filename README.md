@@ -90,26 +90,6 @@ Projenin temel modülleri komut satırından da çalıştırılabilir (bu, geli�
     ```
     Daha fazla parametre için `python scripts/crawler.py --help` komutunu kullanabilirsiniz.
 
-## 📁 Proje Yapısı
-
-├── app.py # Ana Flask uygulaması
-├── requirements.txt # Gerekli Python kütüphaneleri
-├── scripts/
-│ ├── init.py
-│ ├── crawler.py # Web sitesini tarar, linkleri bulur
-│ ├── analyzer.py # Linkleri analiz eder, parametreleri çıkarır
-│ ├── entropy_analyzer.py # URL entropisini hesaplar
-│ ├── scanner.py # Aktif zafiyet taraması yapar
-│ └── analysis/
-│ ├── init.py
-│ └── static_analysis.py # Statik URL kalıp analizi yapar
-├── templates/
-│ ├── index.html # Ana giriş formu
-│ ├── results.html # Tarama sonuçlarının gösterildiği sayfa
-│ └── scan_started.html # Tarama başlatıldı bilgi sayfası
-├── scan_outputs/ # Tüm tarama çıktıları bu klasörde saklanır (otomatik oluşur)
-└── venv/ # Sanal ortam klasörü
-
 
 ## 🚧 Gelecek Çalışmalar ve Geliştirme Fikirleri
 
